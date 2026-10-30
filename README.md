@@ -4,7 +4,6 @@ An Excel assessment of a fictional US-based dental clinic (BrightPath Dental, 40
 
 All data is fictional and the scores are illustrative.
 
-![Current vs target maturity](screenshot.png)
 
 ## What it covers
 - 26 selected NIST CSF 2.0 outcomes across all six functions (Govern, Identify, Protect, Detect, Respond, Recover). This is not the full framework.
